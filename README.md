@@ -3,7 +3,7 @@ Para esse desafio utilizei a IDE Eclipse.
 
 Instruções para a primeira questão :
 - Informar inicialmente a quantidade de elementos(posições) que você quer armazenar no vetor.
-- Após isso informar os números que você quer armazenar nesse vetor.
+- Depois informar os números que você quer armazenar nesse vetor.
 - No final o algoritmo trará a mediana do vetor em questão.
 
 Instruções da terceira questão:
